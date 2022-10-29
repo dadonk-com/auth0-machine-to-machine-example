@@ -1,6 +1,6 @@
 # Auth0 - machine-to-machine demo
 
-Update the values in /client_service/.env
+Update the values in /client_service/.env and  /resource_service/.env
 
 ```
 cd client_service
